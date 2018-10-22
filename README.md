@@ -1,3 +1,3 @@
 ## Laravel NavMenu
 
-This package for managing navigations
+This is a package for managing menus
