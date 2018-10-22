@@ -22,7 +22,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Laravelcity\\Filter\\": "src/"
+            "Laravelcity\\NavMenu\\": "src/"
         }
     }
 }
