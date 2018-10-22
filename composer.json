@@ -1,0 +1,28 @@
+{
+    "name": "laravelcity/laravel-navmenu",
+    "description": "This is a package for managing menus",
+    "keywords": [
+        "laravelcity",
+        "laravel-navmenu",
+        "navmenu",
+        "navigation  manager",
+        "navigation",
+        "cms",
+        "laravel"
+    ],
+    "homepage": "https://github.com/laravelcity/laravel-navmenu",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "saeid hooshyar",
+            "email": "saeedhooshyar70@gmail.com",
+            "homepage": "https://saeidhooshyar.ir",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Laravelcity\\Filter\\": "src/"
+        }
+    }
+}
